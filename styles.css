@@ -11,10 +11,12 @@ div {
 .flex-container {
   height: 1400px;
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
 }
+
+
 /* 
 -----------------------------
 flex-direction: row;
