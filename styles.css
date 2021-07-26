@@ -9,10 +9,9 @@ div {
 }
 
 .flex-container {
-  height: 100px;
+  height: 1400px;
   display: flex;
-  justify-content: space-evenly;
-  align-items: flex-start;
+  flex-direction: column;
 }
 /* 
 -----------------------------
