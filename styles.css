@@ -12,6 +12,7 @@ div {
   height: 1400px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 /* 
 -----------------------------
